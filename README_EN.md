@@ -27,7 +27,7 @@ Scripts that automatically collect proxy links from the Internet, types http,htt
 #### Windows
 
 1. Download `https://raw.githubusercontent.com/ObcbO/getproxy/master/start.bat`
-2. Double click to run / Terminal execution`start.bat`
+2. Double click to run / Execute in terminal with `start.bat`
    
 #### Linux/Android
 
