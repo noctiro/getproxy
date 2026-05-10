@@ -27,7 +27,7 @@
 #### Windows
 
 1. 下载 `https://raw.githubusercontent.com/ObcbO/getproxy/master/start.bat`
-2. 双击运行 / 终端执行`start.bat`
+2. 双击运行 / 在终端中执行`start.bat`
    
 #### Linux/Android
 
